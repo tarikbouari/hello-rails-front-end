@@ -53,7 +53,6 @@ const initialState = {
 
 export const getGreeting = createAsyncThunk(SET_GREETING, async () => {
   const response = await axios.get(url);
-  console.log(response.data);
   return response.data;
 });
 
