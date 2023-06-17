@@ -4,21 +4,22 @@ import { getGreeting } from '../redux/greetingSlice';
 
 function Greeting() {
   const dispatch = useDispatch();
+  const greeting = useSelector((state) => state.greeting.greetingData);
   useEffect(() => {
     dispatch(getGreeting());
   }, [dispatch]);
-
-  const { greeting } = useSelector((state) => state.greetings);
-
-  const handleSubmit = () => {
-    dispatch(fetchGreetingObj());
-  };
-
+  console.log(greeting);
+  const array = [];
+  array.push(greeting);
   return (
-    <div className="greeting-content">
-      <h1>{greeting}</h1>
-      <button onClick={handleSubmit} type="button">Generate new greeting</button>
-    </div>
+    <>
+      <p>Example of Greetings</p>
+      {array.map((item) => (
+        <div key={item.id}>
+          <h2>{item.message}</h2>
+        </div>
+      ))}
+    </>
   );
 }
 
