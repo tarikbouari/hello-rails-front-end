@@ -39,29 +39,23 @@ For more information on the importance of a professional README for your reposit
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [hello-rails-frontend] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> hello-rails-front-end is a front-end app that generate random  greetings base on user. It consume an API build with rails
 
 **[hello-rails-frontend]** is a 
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> hello-rails-front-end is a front-end app that generate random  greetings base on user. It consume an API build with rails 
-
 <details>
   <summary>Client</summary>
   <ul>
