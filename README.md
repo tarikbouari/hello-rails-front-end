@@ -59,19 +59,12 @@ For more information on the importance of a professional README for your reposit
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
 
-<details>
-<summary>Database</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li>React</li>
+    <li>Redux</li>
   </ul>
-</details>
+
 
 <!-- Features -->
 
@@ -95,7 +88,7 @@ In order to run this project you need:
 ```sh
  In order to run this project you need:
 - Computer that's connected to the internet.
-- Get Ruby and React installed
+- Get React installed
 - Git and Node.js installed 
 - Code editor (preferably VS Code)
 ```
@@ -133,8 +126,6 @@ To run the project in the development environment, execute the following command
 
 To run tests, run the following command:
 
-To run tests, run the following command:
-
 ```sh
   npm test
 ```
@@ -143,8 +134,6 @@ To run tests, run the following command:
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 **Tarike Bouari**
 
@@ -184,6 +173,6 @@ I would like to thank microverse
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./Mid.md) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
