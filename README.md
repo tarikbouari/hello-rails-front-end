@@ -25,6 +25,7 @@ For more information on the importance of a professional README for your reposit
  
 </div>
 
+# HELLO-RAILS-FONTEND [FRONTEND]
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
