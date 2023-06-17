@@ -51,7 +51,9 @@ For more information on the importance of a professional README for your reposit
 
 > hello-rails-front-end is a front-end app that generate random  greetings base on user. It consume an API build with rails
 
-**[hello-rails-frontend]** is a 
+# Link to backend Project
+[Click here](https://github.com/tarikbouari/Hello-rails-back-end)
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
